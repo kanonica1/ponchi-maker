@@ -2,7 +2,7 @@
 
 四角と文字で、GUIのレイアウトをさっと伝えるブラウザ用エディター。
 
-公開先： https://non-cinnamon.github.io/ponchi-maker/
+公開先： https://kanonica1.github.io/ponchi-maker/
 
 ## できること
 
